@@ -5,4 +5,4 @@
 - 💞️ Estou procurando colaborar em projetos open source de educação, aplicações web inovadoras
 - 📫 Como me encontrar: patrickvargassantos@hotmail.com
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: ... (Ex: Sou apaixonado por café e música clássica)
+
