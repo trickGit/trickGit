@@ -1,8 +1,16 @@
-### 👋 Olá, eu sou @PatrickVargas
+### Olá, mundo! Eu sou o Patrick! 👋
 
-- 👀 Tenho interesse em desenvolvimento back-end, desenvolvimento front-end, segurança da informação
-- 🌱 Atualmente estou aprendendo React, Python, Docker
-- 💞️ Estou procurando colaborar em projetos open source de educação, aplicações web inovadoras
-- 📫 Como me encontrar: patrickvargassantos@hotmail.com
-- 😄 Pronomes: Ele/Dele
+---
 
+### 👨‍💻 Sobre mim
+
+- Desenvolvedor de Software na **Brisa**
+- Analista de Suporte na **GetNet**
+- Estudante de Análise e Desenvolvimento de Sistemas na **Unisinos**
+- Eterno aprendiz 🎓
+
+---
+
+### 🌎 Bora se conectar
+
+- Se você quer bater um papo, vamo dale! Chama no LinkedIn, acesse meu perfil **[clicando nesse link 🔗](https://www.linkedin.com/in/patrick-vargas-santos-15b420223/)**
